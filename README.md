@@ -1,9 +1,6 @@
 ### Hi there 👋, I am Sai Manibalan
-#### Self taught developer and ...
 
 Skills: REACT / JS / HTML / CSS / Golang / AWS / C#
-
-🔭 I’m currently working on this page. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saimib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/saimib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/saimib)  
 
